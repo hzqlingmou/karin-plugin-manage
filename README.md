@@ -9,6 +9,11 @@ karin根目录执行以下命令安装Karin Manage插件
 ```bash
 git clone https://github.com/HalcyonAlcedo/karin-plugin-manage.git ./plugins/karin-plugin-manage
 ```
+> [!tip]
+> 如果您所在的网络环境较差，可使用gh加速
+> ```bash
+> git clone https://mirror.ghproxy.com/https://github.com/HalcyonAlcedo/karin-plugin-manage.git ./plugins/karin-plugin-manage
+> ```
 
 安装依赖
 
